@@ -41,6 +41,14 @@ deeply, or show a use case.
 **Duration.** I'm not sure yet as it depends on your interest. I think it's 
 reasonable to expect between 4 and 12 meetups.
 
+## Use cases in 2DII
+
+- Jackson?
+- Jacob?
+- Freddy?
+- Pranav?
+- ...?
+
 ## The whole game: Learn how to create and publish a toy interactive app.
 
 - Create a shiny app from a template.
@@ -51,11 +59,10 @@ reasonable to expect between 4 and 12 meetups.
 ## Parametrized rmarkdown documents and rsconnect
 
 - Create parametrized rmarkdown documents
-- Publish to rsconnect via bookdown.org (limited) and or to shinyapps.io
+- Publish to rsconnect via bookdown.org (limited), shinyapps.io
 - Make your app private
 - Genarate reports on a schedule
 - Navigate the history of a report
-
 
 ## Using widgets in your rmarkdown documents
 
@@ -63,7 +70,7 @@ reasonable to expect between 4 and 12 meetups.
 - plotly
 - leaflet
 - See also <https://shiny.rstudio.com/gallery/>
-- 2DII widgest (demo)
+- 2DII widgest (demo CJ?)
 
 ## Rmarkdown documents with shiny components
 
@@ -71,6 +78,19 @@ reasonable to expect between 4 and 12 meetups.
 - flexadashboard
 - learnr
 - Publish the app on <shinyapps.io>
+
+## Reproducible research compendia
+
+- The reproducibility crisis
+- mybinder
+- wholepunch
+
+## Reproducible environments
+
+- Light weight renv
+- rstudio on docker
+- shinyapps on docker
+- docker-compose
 
 ## Building and deploying apps as packages
 
@@ -82,16 +102,15 @@ reasonable to expect between 4 and 12 meetups.
 
 - Environmental variables
 - Package config
-
-## Reproducible R environments with renv
-
-- ...
+- Accessing private repos with pins
 
 ## Themes: Using third-party or custom solutions
 
-- bb?
+- bb? (review appsilon's masterclass)
 - thematic
+- css (Vincent? Catherine)
 
-## Docker
+## Misc
 
-- ...
+- Where to publish when <http://i.imgur.com/gItwkur.png>
+- base-r example <http://i.imgur.com/I65vci2.png>
