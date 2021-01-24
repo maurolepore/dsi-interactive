@@ -9,37 +9,51 @@ publishing interactive tools in R. It will evolve along with the series.
 
 ## Introduction
 
-**Goal.** You can build different kinds of interactive tools, and publish them
-in different places. The goal of this series is to overview the most common
-kinds of tools and publishing platforms, so you can choose to learn more and use
-the ones that best fits your needs. Because Shiny is in active development, you
-will learn about current "best practices", as documented in "[Mastering
-shiny](https://mastering-shiny.org/)".
+### Goal
 
-**Audience.** The target audience any R user that may want to know which
-interactive tools are available, and where to publish them. This includes folks
-at 2DII and beyond. 
+You can build different kinds of interactive tools, and publish them in
+different places. The goal of this series is to overview the most common kinds
+of interactive tools and publishing platforms so you can choose the ones that
+best fits your needs. Along the way, you'll gain more experience with tools and
+practices we covered in previous meetups -- such as Git, GitHub, and R packages.
+By the end of the series your kit of software and cognitive tools will have
+expanded, and the realationship between those tools will have strenghten.
 
-**Requirements** I assume you are already familiar with R, and RStudio. You'll
-feel more conformable if you already know a bit about rmarkdown documents, Git,
-and GitHub; but this is not a requirement. You don't need previous experience
+### Audience
+
+The target audience any R user that may want to know which interactive tools are
+available, and where to publish them. This includes folks at 2DII and beyond.
+
+### Requirements
+
+I assume you are already familiar with R, and RStudio. You'll feel more
+conformable if you already know a bit about rmarkdown documents, Git, and
+GitHub; but this is not a requirement. You don't need previous experience
 building interactive tools.
 
-**Depth and breath.** even when I plan to cover each topic only superficially,
-the range of topics will be wide and hope you'll learn something new in each
-session. I'm sure I will.
+### Depth and breath
 
-**Structure.** I'll thrive for most meetups to show the process from end to end.
-We'll move from simpler tools and publishing options to more complex ones. Each
-meetup will stand alone. It's okay to skip meetups -- at worst you may feel a
-little lost but you should still get something useful.
+Even when I plan to cover each topic only superficially, the range of topics
+will be wide and hope you'll learn something new in each session. I'm sure I
+will.
 
-**Contributions.** I welcome your contributions. I'm new to most of the technologies
-we'll cover and it would be nice to have some expert cover a specific topic more
-deeply, or show a use case.
+### Structure
 
-**Duration.** I'm not sure yet as it depends on your interest. I think it's 
-reasonable to expect between 4 and 12 meetups.
+I'll thrive for most meetups to show the process from end to end. We'll move
+from simpler tools and publishing options to more complex ones. Each meetup will
+stand alone. It's okay to skip meetups -- at worst you may feel a little lost
+but you should still get something useful.
+
+### Contributions
+
+I welcome your contributions. I'm new to most of the technologies we'll cover
+and it would be nice to have some expert cover a specific topic more deeply, or
+show a use case.
+
+### Duration
+
+I'm not sure yet as it depends on your interest. I think it's reasonable to
+expect between 4 and 12 meetups.
 
 ## Use cases in 2DII
 
